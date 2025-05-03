@@ -87,15 +87,15 @@ Thanks for using *MALVIN-XD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+https://
 
 ——————
 
-*© Powered by Malvin King*
+*© Powered by KAYBOY*
 Stay cool and hack smart. ✌🏻` });
 
                     // Clean up session after use
